@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 алгосы 5
 алгосы
 не алгосы
+=======
+feature1 modification
+>>>>>>> feature1
